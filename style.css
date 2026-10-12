@@ -1,0 +1,8 @@
+body {
+    background-color: #020617;
+    color: #f8fafc;
+}
+input:focus {
+    outline: none;
+    border-color: #6366f1;
+}
